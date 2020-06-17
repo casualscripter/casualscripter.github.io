@@ -13,3 +13,6 @@ Der mandalorianische Protagonist ist ein Einzelkämpfer, der fünf Jahre nach de
 > Mando: 'Erst wenn die ihre runter nehmen.'
 > Sturmtruppler: 'Wir sind vier gegen einen.'
 > Mando: 'Meine Chancen stehen gut.'
+
+## Bild
+<img src="https://i1.wp.com/play-experience.com/wp-content/uploads/2020/02/The-Mandalorian.jpg"/>
