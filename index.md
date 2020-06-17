@@ -10,8 +10,11 @@ Der mandalorianische Protagonist ist ein Einzelkämpfer, der fünf Jahre nach de
 
 ## Zitat
 > Auftraggeber: 'Bitte nehmen Sie den Blaster runter.'
+>
 > Mando: 'Erst wenn die ihre runter nehmen.'
+>
 > Sturmtruppler: 'Wir sind vier gegen einen.'
+>
 > Mando: 'Meine Chancen stehen gut.'
 
 ## Bild
